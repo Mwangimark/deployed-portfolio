@@ -15,7 +15,7 @@ function Main() {
         <div className="content">
           <div className="social_icons">
             <a href="https://github.com/Mwangimark" target="_blank" rel="noreferrer"><GitHubIcon /></a>
-            <a href="https://www.linkedin.com/in/mark-mwangi-95759127/" target="_blank" rel="noreferrer"><LinkedInIcon /></a>
+            <a href="https://www.linkedin.com/in/mark-mwangi-957591257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><LinkedInIcon /></a>
           </div>
           <h1>Mwangi C. Mark</h1>
           <p>Full Stack Developer | AI & Machine Learning Engineer</p>
@@ -24,7 +24,7 @@ function Main() {
 
           <div className="mobile_social_icons">
             <a href="https://github.com/Mwangimark" target="_blank" rel="noreferrer"><GitHubIcon /></a>
-            <a href="https://www.linkedin.com/in/mark-mwangi-95759127/" target="_blank" rel="noreferrer"><LinkedInIcon /></a>
+            <a href="https://www.linkedin.com/in/mark-mwangi-957591257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><LinkedInIcon /></a>
           </div>
         </div>
       </div>
