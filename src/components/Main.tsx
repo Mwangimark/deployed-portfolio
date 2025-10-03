@@ -19,6 +19,7 @@ function Main() {
           </div>
           <h1>Mwangi C. Mark</h1>
           <p>Full Stack Developer | AI & Machine Learning Engineer</p>
+          <p>UI UX Designer</p>
 
 
 
