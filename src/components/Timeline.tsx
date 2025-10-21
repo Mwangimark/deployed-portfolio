@@ -12,6 +12,20 @@ function Timeline() {
       <div className="items-container">
         <h1>Career History</h1>
         <VerticalTimeline>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="Feb 2025 - May 2025"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Modus Chora Studio</h3>
+            <h4 className="vertical-timeline-element-subtitle">Nafasi Connections || Westlands || Nairobi</h4>
+            <p>
+              Developed and maintained web applications, collaborated on UI/UX design, and implemented backend functionalities to enhance user experience and application performance.
+            </p>
+          </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
